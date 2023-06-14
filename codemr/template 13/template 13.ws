@@ -1,0 +1,1 @@
+{"template.building-and-room-handling-service.main":{"name":"template.building-and-room-handling-service.main","packages":{"service.buildingandroomhandlingservice.controllers":{"packageName":"service.buildingandroomhandlingservice.controllers","isAll":false,"classes":["Lservice.buildingandroomhandlingservice.controllers.StatusController"]}}}}

@@ -1,0 +1,9 @@
+rootProject.name = 'template'
+
+include 'building-and-room-handling-service', 'reservation-handling-service',
+        'authentication-service'
+
+for (project in rootProject.children) {
+    project.projectDir = file("microservices/${project.name}")
+}
+
